@@ -1,4 +1,4 @@
-# Tychonoff_Theorem
+# Tychonoff's Theorem
 The order, algebra and topology of the Bourbaki group are the foundation of modern mathematics. On the basis of the
 proof assistant Coq, the formal system of these three major parental structures can be constructed completely. On the basis of the
 formalization of axiomatic set theory, this work present the formal framework of general topology. This work completes the
