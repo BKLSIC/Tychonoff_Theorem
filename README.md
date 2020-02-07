@@ -16,7 +16,3 @@ proof of Tychonoff’s theorem, which is famous in general topology.
   Defines some notations and provides basic properties.
 4. Tychonoff_Theorem.v
   Proves Tychonoff's theorem.
-
-# Author
-
-Xiaoyan Zao. zxyylsfxy@126.com
